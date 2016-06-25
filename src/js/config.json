@@ -1,0 +1,17 @@
+{
+  "tos_header": "Terms of Service Agreement",
+  "tos_agreement": [
+
+    "<strong>Refund Policy</strong> </br>",
+
+    "Our refund policy is simple, no refunds, no warranty, this script is strictly use at your own risk. </br> </br>",
+
+    "<strong>Acceptance</strong> </br>",
+
+    "BY USING AND/OR VISITING THIS WEBSITE (collectively, including all Content available through the NodeGeeks LLC domain name (nodegeeks.io, nodegeeks.com, nodegeeksllc.com), the 'NodeGeeks LLC Website', or 'Website'), YOU SIGNIFY YOUR ASSENT TO THESE TERMS AND CONDITIONS (the 'Terms of Use'). If you do not agree to any of these terms, then please do not use the NodeGeeks LLC Website. NodeGeeks LLC Website </br>"
+  ],
+  "logo" : "./images/logo.jpg",
+  "forward_url": "http://nodegeeksllc.com",
+  "tos_cancel_btn": "Leave",
+  "tos_accept_btn": "Enter"
+}
